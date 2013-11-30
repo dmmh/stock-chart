@@ -1,0 +1,4 @@
+stock-chart
+===========
+
+Charting library
